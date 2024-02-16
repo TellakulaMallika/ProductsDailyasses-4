@@ -1,0 +1,14 @@
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.exe
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.deps.json
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.runtimeconfig.json
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.dll
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\bin\Debug\net6.0\ConsoleAppProducts.pdb
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.AssemblyInfoInputs.cache
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.AssemblyInfo.cs
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.dll
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\refint\ConsoleAppProducts.dll
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.pdb
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ConsoleAppProducts.genruntimeconfig.cache
+C:\Users\sss\source\repos\ConsoleAppProducts\ConsoleAppProducts\obj\Debug\net6.0\ref\ConsoleAppProducts.dll
